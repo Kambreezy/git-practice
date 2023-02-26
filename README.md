@@ -1,4 +1,4 @@
-I'm Amos and I edited this file
+I'm Amos and I edited this file online!
 
 # Practice with git and GitHub
 
